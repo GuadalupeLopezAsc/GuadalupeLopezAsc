@@ -35,7 +35,7 @@ Me encanta explorar datos, descubrir patrones y contar historias a través de el
 - [Twitter](https://twitter.com/guadalupe_10835?s=09)
 
 ## 📚 Aprendiendo Siempre
-Me encanta aprender nuevas cosas y estoy actualmente explorando [tema o tecnología específica].
+Me encanta aprender nuevas cosas y estoy actualmente explorando Google Cloud.
 
 ¡Gracias por visitar mi perfil! 😊
 
