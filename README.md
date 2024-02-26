@@ -8,7 +8,7 @@ Me encanta explorar datos, descubrir patrones y contar historias a través de el
 - Análisis de Datos
 - Machine Learning
 - Estadística
-- [Otras habilidades relevantes]
+- - Finanzas
 
 ## 🔧 Tecnologías y Herramientas
 - Python
@@ -17,18 +17,17 @@ Me encanta explorar datos, descubrir patrones y contar historias a través de el
 - Jupyter Notebooks
 
 ## 📊 Proyectos Destacados
-### [Nombre del Proyecto 1]
-- Breve descripción
-- Tecnologías utilizadas
-- Enlace al proyecto o código fuente
+### Modelo analítico arbol de desición.
+- Se nos proporcionó una base de datos de 55,692 individuos junto con sus revisiones médicas (peso, estatura, graduación visual, colesterol, trigliceridos, etc.) teniendo un total de 27 variables.
 
-### [Nombre del Proyecto 2]
-- Breve descripción
-- Tecnologías utilizadas
-- Enlace al proyecto o código fuente
+**Objetivo:** determinar la presencia o ausencia de tabaquismo a través de bioseñales
+- Realizado en Google Colab con Python. 
 
-## 📈 Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)](https://github.com/TuUsuario)
+### Formas cuadraticas.
+- Se muestran conceptos esenciales en el álgebra lineal y su relación con el análisis de datos, centrándonos en la norma de Mahalanobis para evaluar la similitud entre observaciones y detectar outliers.
+- Tecnologías utilizadas: Python
+
+
 
 ## 📫 Contacto
 - [LinkedIn](www.linkedin.com/in/guadalupelopezasc)
