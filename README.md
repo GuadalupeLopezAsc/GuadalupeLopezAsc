@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Guadalupe López 
 
 ## 👨‍💻 Sobre mí
-Soy estudiante de útimo semestre de Actuaría, apasionada por la ciencia de datos, analísis de datos y la estadística. 
+Apasionada por la ciencia de datos, analísis de datos y la estadística. 
 Me encanta explorar datos, descubrir patrones y contar historias a través de ellos.
 
 ## 🚀 Habilidades
